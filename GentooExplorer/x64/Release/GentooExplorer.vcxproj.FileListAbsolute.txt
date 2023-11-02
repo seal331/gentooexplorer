@@ -1,0 +1,4 @@
+E:\source\repos\GentooExplorer\GentooExplorer\x64\Release\GentooExplorer.vcxproj.AssemblyReference.cache
+E:\source\repos\GentooExplorer\GentooExplorer\x64\Release\GentooExplorer.vcxproj.SuggestedBindingRedirects.cache
+E:\source\repos\GentooExplorer\GentooExplorer\x64\Release\GentooExplorer.MyForm.resources
+E:\source\repos\GentooExplorer\GentooExplorer\x64\Release\GentooExplorer.vcxproj.GenerateResource.cache
